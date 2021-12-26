@@ -12,4 +12,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## App Preview 
 
-<img src="/preview.gif"/>
+<img src="public/preview.gif"/>
