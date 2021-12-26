@@ -1,0 +1,40 @@
+body{
+  margin-top:20px;
+  background: #f8f8f8;
+}
+
+.todo-nav {
+  margin-top: 10px
+}
+
+.todo-list {
+  margin: 10px 0
+}
+
+.todo-list .todo-item {
+  padding-left: 20px;
+  margin: 5px 0;
+  border-radius: 0;
+  background: #f7f7f7
+}
+
+
+
+.nav-pills .nav-link {
+  font-weight: 700 !important;
+}
+
+.card {
+  padding: 25px;
+  margin-bottom: 20px;
+  border: initial;
+  background: #fff;
+  border-radius: calc(.15rem - 1px);
+  box-shadow: 0 1px 15px rgba(0,0,0,0.04), 0 1px 6px rgba(0,0,0,0.04);
+}
+
+.logo {
+    text-align: center;
+    margin-bottom:30px;
+}
+
